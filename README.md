@@ -1,3 +1,3 @@
-# Gwuess-
+# Python Gibberish Dump~!
 
-<small>Hoi! Welcomeee! ^^ I will work on this soon if I've got time!</small>
+<small>Hoi! I'll dump random python code that doesnt even work here!</small>
